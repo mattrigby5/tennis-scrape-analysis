@@ -1,5 +1,5 @@
 # Project to find out whether 3 or 5 sets are better in grand slam matches in tennis:
-1) Scrape match data from wikipedia for grand slams from 1970-2020
+1) Scrape match data from wikipedia for grand slams from 1970-2020: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Tennis/Grand_Slam_Project
 2) Read all of the slam CSV files into one dataframe (15000+ matches)
 3) Manipulate data to evaluate fairness increase and injuries from best of 0 to 1 to 3 to 5 sets of grand slam tennis matches.
 4) Visualize results
